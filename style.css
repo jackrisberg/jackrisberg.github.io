@@ -12,7 +12,7 @@
 .word{
   color:black;
   margin-top: 100px;
-  margin-left: 200px;
+  margin-left: 150px;
   font-size: 170%;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
@@ -20,8 +20,9 @@
 
 .definition{
   color:black;
-  margin-top: 50px;
-  margin-left: 250px;
+  margin-top: 25px;
+  margin-left: 175px;
+  margin-right: 75px;
   font-size: 130%;
   font-family: Arial, Helvetica, sans-serif;
 }
