@@ -11,8 +11,8 @@
 
 .word{
   color:black;
-  margin-top: 100px;
-  margin-left: 150px;
+  margin-top: 80px;
+  margin-left: 125px;
   font-size: 170%;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
@@ -22,7 +22,7 @@
   color:black;
   margin-top: 25px;
   margin-left: 175px;
-  margin-right: 80px;
+  margin-right: 75px;
   font-size: 130%;
   font-family: Arial, Helvetica, sans-serif;
 }
