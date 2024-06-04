@@ -21,6 +21,7 @@
 .definition{
   color:black;
   margin-top: 25px;
+  margin-bottom: 50px;
   margin-left: 175px;
   margin-right: 75px;
   font-size: 130%;
@@ -39,3 +40,18 @@ a:visited {
   text-decoration: underline;
 }
 
+.bigimage{
+  width: 50%;
+  height: 50%;
+  margin-bottom: 50px;
+  margin-left: 175px;
+  margin-right: 75px;
+}
+
+.smallimage{
+  width: 70%;
+  height: 70%;
+  margin-bottom: 50px;
+  margin-left: 175px;
+  margin-right: 75px;
+}
