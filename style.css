@@ -28,6 +28,16 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.caption{
+  color:black;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  margin-left: 175px;
+  margin-right: 75px;
+  font-size: 130%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 a:link {
   color: blue;
   background-color: transparent;
@@ -38,6 +48,14 @@ a:visited {
   color: blue;
   background-color: transparent;
   text-decoration: underline;
+}
+
+.biggerimage{
+  width: 35%;
+  height: 35%;
+  margin-bottom: 30px;
+  margin-left: 175px;
+  margin-right: 75px;
 }
 
 .bigimage{
