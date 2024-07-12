@@ -73,3 +73,9 @@ a:visited {
   margin-left: 175px;
   margin-right: 75px;
 }
+
+@media (max-width: 600px){
+  .text {
+      font-size: 50%; /* Smaller font size for mobile */
+  }
+}
