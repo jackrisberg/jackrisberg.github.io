@@ -10,7 +10,7 @@
 }
 
 .word{
-  color:black;
+  color:green;
   margin-top: 80px;
   margin-left: 125px;
   font-size: 170%;
@@ -75,7 +75,8 @@ a:visited {
 }
 
 @media (max-width: 600px){
-  .text {
+  .word {
       font-size: 50%; /* Smaller font size for mobile */
+      color: purple;
   }
 }
