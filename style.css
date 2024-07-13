@@ -16,12 +16,12 @@
   display: flex;
   /* justify-content: leftt; */
   margin-left: 50px;
-  font-size: 150%;
+  font-size: calc(var(--base-font-size) * 1.5);
  
 }
 
 .word{
-  color:green;
+  color:black;
   margin-top: 80px;
   margin-left: 125px;
   font-size: calc(var(--base-font-size) * 1.7);
