@@ -11,7 +11,7 @@
 
 .header{
   text-decoration: none; /* Remove underline */
-  color: black; /* Inherit color from its parent */
+  color: rgb(252, 0, 13); /* Inherit color from its parent */
   cursor: pointer; /* Show pointer cursor on hover */
   display: flex;
   /* justify-content: leftt; */
