@@ -88,8 +88,13 @@ a:visited {
 @media (max-width: 1024px) and (orientation: portrait) {
   .word {
       margin-left: 50px; /* Smaller padding for portrait mode on mobile */
+      margin-right: 25px;
   }
   .definition{
       margin-left: 100px;
+      margin-right: 50px;
+  }
+  .header {
+    margin-left: 25px;
   }
 }
