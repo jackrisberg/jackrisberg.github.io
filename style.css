@@ -14,7 +14,7 @@
   color: black; /* Inherit color from its parent */
   cursor: pointer; /* Show pointer cursor on hover */
   display: flex;
-  /* justify-content: left; */
+  /* justify-content: leftt; */
   margin-left: 50px;
   font-size: 150%;
  
