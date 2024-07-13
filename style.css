@@ -11,7 +11,7 @@
 
 .header{
   text-decoration: none; /* Remove underline */
-  color: rgb(252, 0, 13); /* Inherit color from its parent */
+  color: black; /* Inherit color from its parent */
   cursor: pointer; /* Show pointer cursor on hover */
   display: flex;
   /* justify-content: leftt; */
@@ -85,3 +85,11 @@ a:visited {
   margin-right: 75px;
 }
 
+@media (max-width: 1024px) and (orientation: portrait) {
+  .word {
+      margin-left: 50px; /* Smaller padding for portrait mode on mobile */
+  }
+  .definition{
+      margin-left: 100px;
+  }
+}
