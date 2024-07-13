@@ -11,13 +11,12 @@
 
 .header{
   text-decoration: none; /* Remove underline */
-  color: orange; /* Inherit color from its parent */
+  color: pink; /* Inherit color from its parent */
   cursor: pointer; /* Show pointer cursor on hover */
   display: flex;
   /* justify-content: leftt; */
   margin-left: 50px;
   font-size: calc(var(--base-font-size) * 1.5);
- 
 }
 
 .word{
