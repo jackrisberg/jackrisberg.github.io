@@ -5,13 +5,13 @@
 /* Media query for mobile devices */
 @media (max-width: 600px) {
   :root {
-      --base-font-size: 0.5rem; /* Smaller font size for mobile (14px if root is 16px) */
+      --base-font-size: 0.75rem; /* Smaller font size for mobile (14px if root is 16px) */
   }
 }
 
 .header{
   text-decoration: none; /* Remove underline */
-  color: purple; /* Inherit color from its parent */
+  color: blue; /* Inherit color from its parent */
   cursor: pointer; /* Show pointer cursor on hover */
   display: flex;
   /* justify-content: leftt; */
@@ -87,12 +87,12 @@ a:visited {
 
 @media (max-width: 1024px) and (orientation: portrait) {
   .word {
-      margin-left: 50px; /* Smaller padding for portrait mode on mobile */
+      margin-left: 35px; /* Smaller padding for portrait mode on mobile */
       margin-right: 25px;
   }
   .definition{
-      margin-left: 100px;
-      margin-right: 50px;
+      margin-left: 50px;
+      margin-right: 35px;
   }
   .header {
     margin-left: 25px;
