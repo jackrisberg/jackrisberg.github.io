@@ -11,7 +11,7 @@
 
 .header{
   text-decoration: none; /* Remove underline */
-  color: pink; /* Inherit color from its parent */
+  color: blue; /* Inherit color from its parent */
   cursor: pointer; /* Show pointer cursor on hover */
   display: flex;
   /* justify-content: leftt; */
