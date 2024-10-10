@@ -108,6 +108,15 @@ a:visited {
   .header {
     margin-left: 25px;
   }
+
+  .caption{
+    color:black;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
 .embedimage{
   width: 70%;
   height: 70%;
