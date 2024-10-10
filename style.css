@@ -97,15 +97,48 @@ a:visited {
 
 @media (max-width: 1024px) and (orientation: portrait) {
   .word {
-      margin-left: 50px; /* Smaller padding for portrait mode on mobile */
+      margin-left: 25px; /* Smaller padding for portrait mode on mobile */
       margin-right: 25px;
       margin-top: 50px;
   }
   .definition{
-      margin-left: 50px;
+      margin-left: 25px;
       margin-right: 35px;
   }
   .header {
     margin-left: 25px;
   }
+.embedimage{
+  width: 70%;
+  height: 70%;
+  margin-bottom: 0px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.biggerimage{
+  width: 75%;
+  height: 75%;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.bigimage{
+  width: 80%;
+  height: 80%;
+  margin-bottom: 10px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.smallimage{
+  width: 100%;
+  height: 100%;
+  margin-bottom: 10px;
+  margin-left: 25x;
+  margin-right: 25px;
+}
+
+
 }
